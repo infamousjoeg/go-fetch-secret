@@ -6,7 +6,7 @@ A small footprint Go-based binary that fetches a secret from a DAP or Conjur ser
 
 Download the [latest release](https://github.com/infamousjoeg/go-secret-fetcher/releases).
 
-Move or copy the `fetchsecret` binary to `/usr/bin/local` or another path designed in `$PATH`.
+Move or copy the `fetchsecret` binary to `/usr/bin/local` or another path designated in `$PATH`.
 
 ## Required Environment Variables
 
